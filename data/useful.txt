@@ -1,9 +1,6 @@
 Google
 https://www.google.com/
 
-Searx
-https://searx.tiekoetter.com/
-
 The Pirate Bay
 https://thepiratebay.org/index.html
 
@@ -12,12 +9,6 @@ https://en.wikipedia.org/wiki/Main_Page
 
 Library Genesis
 https://libgen.rs/
-
-Based Cooking
-https://based.cooking/
-
-Svetosavlje
-https://svetosavlje.org/
 
 Google Drive
 https://drive.google.com/drive/my-drive
@@ -28,11 +19,32 @@ https://mega.nz/fm/transfers
 Filter Music
 https://filtermusic.net/
 
-Sort Strings
-https://onlinestringtools.com/sort-strings
+Based Cooking
+https://based.cooking/
 
-Compare Strings
-https://text-compare.com/
+Darebee
+https://darebee.com/
 
-Compress PDF
-https://smallpdf.com/compress-pdf
+Svetosavlje
+https://svetosavlje.org/
+
+Kupujem Prodajem
+https://www.kupujemprodajem.com/
+
+Kupindo
+https://www.kupindo.com/
+
+Limundo
+https://www.limundo.com/
+
+Lichess
+https://lichess.org/
+
+Steam
+https://store.steampowered.com/
+
+TechPowerUp
+https://www.techpowerup.com/
+
+IMDB
+https://www.imdb.com/

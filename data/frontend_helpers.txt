@@ -1,0 +1,41 @@
+Font Awesome
+https://fontawesome.com/icons?d=gallery&p=2&q=windwalk
+
+Flaticon Icons
+https://www.flaticon.com/search?word=box&type=icon&license=selection&order_by=4
+
+Coolors
+https://coolors.co/000000-404040-808080-c0c0c0-ffffff
+
+Contrast Ratio
+https://contrast-ratio.com/#black-on-white
+
+Color Converter
+https://convertacolor.com/
+
+Color Wheel
+https://www.canva.com/colors/color-wheel/
+
+CSS Gradient
+https://cssgradient.io/
+
+Google Fonts
+https://fonts.google.com/
+
+Unsplash
+https://unsplash.com/
+
+Tiny JPG
+https://tinyjpg.com/
+
+Tiny PNG
+https://tinypng.com/
+
+JPG to Webp
+https://convertio.co/jpg-webp/
+
+Hero Patterns
+https://heropatterns.com/
+
+Hero Icons
+https://heroicons.com/

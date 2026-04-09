@@ -1,44 +1,44 @@
-Hero Patterns
-https://heropatterns.com/
-
-Hero Icons
-https://heroicons.com/
-
-Font Awesome
-https://fontawesome.com/icons?d=gallery&p=2&q=windwalk
-
-Flaticon Icons
-https://www.flaticon.com/search?word=box&type=icon&license=selection&order_by=4
-
-Coolors
-https://coolors.co/000000-404040-808080-c0c0c0-ffffff
-
-Contrast Ratio
-https://contrast-ratio.com/#black-on-white
-
-Color Converter
-https://convertacolor.com/
-
-Color Wheel
-https://www.canva.com/colors/color-wheel/
-
-CSS Gradient
-https://cssgradient.io/
-
-Google Fonts
-https://fonts.google.com/
-
-Unsplash
-https://unsplash.com/
-
-Tiny JPG
-https://tinyjpg.com/
-
-Tiny PNG
-https://tinypng.com/
-
-JPG to Webp
-https://convertio.co/jpg-webp/
-
 React
-#
+https://react.dev/
+
+React Router
+https://reactrouter.com/
+
+Redux
+https://redux.js.org/
+
+NPM
+https://www.npmjs.com/
+
+Semantic HTML
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+TypeScript Cheat Sheet
+https://www.typescriptlang.org/cheatsheets
+
+JavaScript Cheat Sheet
+https://overapi.com/javascript
+
+Vite
+https://vitejs.dev/guide/
+
+TanStack Query
+https://tanstack.com/query/v5/docs/framework/react/overview
+
+Axios
+https://axios-http.com/docs/intro
+
+Tailwind CSS
+https://tailwindcss.com/docs/installation
+
+Tailwind To CSS
+https://tailwind-to-css.vercel.app/
+
+CSS Tricks
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+
+Daisy UI
+https://daisyui.com/components/
+
+Material UI
+https://mui.com/components/

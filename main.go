@@ -25,11 +25,13 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 		Filename string
 	}{
 		{Title: "Frontend", Filename: "frontend.txt"},
-		{Title: "Documentation", Filename: "documentation.txt"},
+		{Title: "Frontend Helpers", Filename: "frontend_helpers.txt"},
 		{Title: "Backend", Filename: "backend.txt"},
-		{Title: "Job", Filename: "job.txt"},
+		{Title: "DevOps", Filename: "devops.txt"},
 		{Title: "Useful", Filename: "useful.txt"},
 		{Title: "Social", Filename: "social.txt"},
+		{Title: "Tools", Filename: "tools.txt"},
+		{Title: "Security", Filename: "security.txt"},
 	}
 
 	sections := make([]Section, 0, len(files))

@@ -1,0 +1,38 @@
+OWASP Top 10
+https://owasp.org/
+
+TryHackMe
+https://tryhackme.com/p/windwalk
+
+Snyk
+https://docs.snyk.io/
+
+Wappalyzer
+https://www.wappalyzer.com/
+
+Hostinger
+https://www.hostinger.com/domain-name-search
+
+Let's Encrypt
+https://letsencrypt.org/getting-started/
+
+Contabo
+https://contabo.com/en/vps/
+
+Python Anywhere
+https://www.pythonanywhere.com/
+
+Render
+https://render.com/
+
+Fly.io
+https://fly.io/
+
+JWT
+https://pyjwt.readthedocs.io/en/stable/
+
+OAuth2
+https://oauth.net/code/python/
+
+OIDC
+https://pyoidc.readthedocs.io/en/latest/

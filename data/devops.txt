@@ -1,0 +1,59 @@
+Caddy
+https://caddyserver.com/docs/
+
+Nginx
+https://nginx.org/en/docs/
+
+Git
+https://git-scm.com/docs
+
+Github
+https://github.com/milijan-mosic?tab=repositories
+
+Docker
+https://docs.docker.com/
+
+Docker Compose
+https://docs.docker.com/compose/
+
+Docker's Hub
+https://hub.docker.com/
+
+Kubernetes
+https://kubernetes.io/docs/home/
+
+Argo CD
+https://argo-cd.readthedocs.io/en/stable/
+
+Arch Linux
+https://wiki.archlinux.org/
+
+Bash
+https://google.github.io/styleguide/shellguide.html
+
+Prometheus
+https://prometheus.io/docs/introduction/overview/
+
+Grafana
+https://grafana.com/docs/
+
+Elastic
+https://www.elastic.co/docs
+
+Google Cloud Platform
+https://console.cloud.google.com/
+
+Amazon Web Services
+https://aws.amazon.com/
+
+Cursor
+https://cursor.com/docs
+
+Claude
+https://code.claude.com/docs/en/overview
+
+Gemini
+https://gemini.google.com/app
+
+ChatGPT
+https://chatgpt.com/

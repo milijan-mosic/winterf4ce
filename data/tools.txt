@@ -1,0 +1,29 @@
+Sort Strings
+https://onlinestringtools.com/sort-strings
+
+Compare Strings
+https://text-compare.com/
+
+Compress PDF
+https://smallpdf.com/compress-pdf
+
+Learn X in Y minutes
+https://learnxinyminutes.com/docs/javascript/
+
+Human Interface Design
+https://developer.apple.com/design/human-interface-guidelines/
+
+Mozilla Developer Network
+https://developer.mozilla.org/en-US/
+
+HackerRank
+https://www.hackerrank.com/profile/milijan_mosic
+
+LeetCode
+https://leetcode.com/
+
+System Design
+https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
+
+Roadmaps
+https://roadmap.sh/system-design

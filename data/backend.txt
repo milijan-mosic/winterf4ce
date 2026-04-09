@@ -4,38 +4,53 @@ https://www.pythoncheatsheet.org/
 Curated List of Python's stuff
 https://github.com/vinta/awesome-python
 
+PyPI
+https://pypi.org/
+
+FastAPI
+https://fastapi.tiangolo.com/tutorial/first-steps/
+
+SQL Alchemy
+https://docs.sqlalchemy.org/en/20/
+
+Alembic
+https://alembic.sqlalchemy.org/en/latest/
+
+SQL
+https://www.geeksforgeeks.org/sql/sql-cheat-sheet/
+
+PostgreSQL
+https://www.postgresql.org/docs/
+
+MongoDB
+https://www.mongodb.com/docs/
+
+Redis
+https://redis.io/docs/latest/
+
+MinIO
+https://docs.min.io/enterprise/aistor-object-store/
+
+Kafka
+https://kafka.apache.org/42/getting-started/introduction/
+
+RabbitMQ
+https://www.rabbitmq.com/docs
+
+NATS
+https://docs.nats.io/
+
+ARQ
+https://arq-docs.helpmanual.io/
+
+Dramatiq
+https://dramatiq.io/
+
 Go
 https://go.dev/doc/
 
-Google Cloud Platform
-https://console.cloud.google.com/
+Chi
+https://go-chi.io/#/README
 
-Amazon Web Services
-https://aws.amazon.com/
-
-Docker's Hub
-https://hub.docker.com/
-
-OWASP
-https://owasp.org/
-
-TryHackMe
-https://tryhackme.com/p/windwalk
-
-Exploit DB
-https://www.exploit-db.com/
-
-Crack Station
-https://crackstation.net/
-
-HashCat
-https://hashcat.net/wiki/doku.php?id=example_hashes
-
-Hash Identifier
-https://hashes.com/en/tools/hash_identifier
-
-SecList Toolbox
-https://github.com/danielmiessler/SecLists
-
-DeepSeek
-#
+GORM
+https://v1.gorm.io/docs/

@@ -1,3 +1,12 @@
+VTSNS
+https://vtsns.edu.rs/
+
+Student Platform
+https://student.vtsns.edu.rs/security/login.jsf
+
+Moodle
+https://vtsnsmoodle.edu.rs/login/index.php
+
 Facebook
 https://www.facebook.com/legioxequestris
 
@@ -9,6 +18,21 @@ https://www.youtube.com/feed/subscriptions
 
 Reddit
 https://www.reddit.com/
+
+LinkedIn
+https://www.linkedin.com/in/milijan-mosi%C4%87-936a87235/
+
+Calendly
+https://calendly.com/milijan-mosic/30min
+
+HelloWorld.rs
+https://www.helloworld.rs/
+
+Poslovi Infostud
+https://poslovi.infostud.com/
+
+Joberty
+https://www.joberty.rs/
 
 Wired
 https://www.wired.com/
@@ -22,35 +46,14 @@ https://mail.protonmail.com/inbox?welcome=true
 Google Mail
 https://mail.google.com/mail/u/0/#inbox
 
-Kupujem Prodajem
-https://www.kupujemprodajem.com/
-
-Kupindo
-https://www.kupindo.com/
-
-Limundo
-https://www.limundo.com/
-
-Lichess
-https://lichess.org/
-
-Steam
-https://store.steampowered.com/
-
-TechPowerUp
-https://www.techpowerup.com/
-
-IMDB
-https://www.imdb.com/
+Google Meet
+https://meet.google.com/
 
 Google Translate
 https://translate.google.rs/?hl=en
 
-Google Meet
-https://meet.google.com/
+Google Maps
+https://www.google.rs/maps/
 
 Google Docs
 https://docs.google.com/
-
-Google Maps
-https://www.google.rs/maps/
