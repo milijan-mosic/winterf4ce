@@ -2,16 +2,16 @@
 
 
 # LANGUAGES AND FRAMEWORKS
-  HTML5, TailwindCSS, Go.
+  HTML5, TailwindCSS, Go
 
 # DEPLOYMENT
   Render
 
 # TOOLS AND SOFTWARES
-  VS Code, Firefox, Chromium, Linux, Alacritty.
+  VS Code, Firefox, Chromium, Linux, Alacritty
 
 # WEBSITES FOR ASSETS
-  Flaticon, Google Fonts, TailwindCSS.
+  Flaticon, Google Fonts, Tailwind CSS
 
 # ABOUT ME
-  https://milijan-mosic.vercel.app/
+  https://milijan-mosic.dev/
