@@ -12,7 +12,7 @@ cd winterf4ce/
 ### Run it
 
 ```sh
-air server --port 55555 -c .air.toml
+air server --port 20000 -c .air.toml
 ```
 
 ## Prod setup
@@ -26,7 +26,7 @@ docker build -t winterf4ce .
 ### Run it
 
 ```sh
-docker run -p 55555:55555 winterf4ce
+docker run -p 20000:20000 winterf4ce
 ```
 
 ## How to write/edit websites?

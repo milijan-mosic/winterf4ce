@@ -1,9 +1,9 @@
-FROM golang:1.22-alpine
+FROM golang:1.26-alpine
 WORKDIR /code
 
 COPY . /code
 RUN go mod download
 RUN go build -o main .
 
-EXPOSE 55555
+EXPOSE 20000
 CMD ["nohup", "./main", "&"]

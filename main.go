@@ -2,11 +2,8 @@ package main
 
 import (
 	"fmt"
-	"html/template"
 	"log"
 	"net/http"
-	"os"
-	"strings"
 )
 
 type Websites struct {
@@ -16,40 +13,6 @@ type Websites struct {
 	Job           map[string]string
 	Social        map[string]string
 	Useful        map[string]string
-}
-
-func readFile(filePath string) []string {
-	content, err := os.ReadFile(filePath)
-	if err != nil {
-		log.Fatal("File reading error -> ", err)
-	}
-
-	return strings.Split(string(content), "\n")
-}
-
-func readTemplate(filePath string) *template.Template {
-	file, err := os.Open(filePath)
-	if err != nil {
-		panic(err)
-	}
-	defer file.Close()
-
-	template, err := template.ParseFiles(filePath)
-	if err != nil {
-		panic(err)
-	}
-
-	return template
-}
-
-func prepUrlsForTemplate(urls []string) map[string]string {
-	var mappedWebsites = make(map[string]string)
-
-	for index := 0; index < len(urls); index += 3 {
-		mappedWebsites[urls[index]] = urls[index+1]
-	}
-
-	return mappedWebsites
 }
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
@@ -95,8 +58,8 @@ func main() {
 	router.HandleFunc("/robots.txt", robotsHandler)
 	router.HandleFunc("/humans.txt", humansHandler)
 
-	fmt.Println("Server is running on port 55555...")
-	err := http.ListenAndServe(":55555", router)
+	fmt.Println("Server is running on port 20000...")
+	err := http.ListenAndServe(":20000", router)
 	if err != nil {
 		log.Fatal("Server error -> ", err)
 	}
