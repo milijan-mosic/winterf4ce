@@ -3,130 +3,35 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <!-- Metadata -->
     <link rel="icon" type="image/png" href="/static/favicon.png" />
-    <title>Winterf4ce</title>
+    <meta name="author" content="Milijan Mosić" />
     <meta
       name="description"
-      content="Personal collection of useful websites for web developer..."
+      content="Personal collection of useful websites for ... me?"
     />
-
-    <!-- TailwindCSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-      body {
-        font-size: 16px;
-        font-family: "Anta", sans-serif;
-      }
-    </style>
-
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Anta&display=swap"
-      rel="stylesheet"
-    />
+    <title>Winterf4ce</title>
+    <link href="/static/css/index.css" rel="stylesheet" />
   </head>
 
-  <body class="text-xl text-white bg-black">
-    <header class="flex justify-center w-full">
-      <h1 class="mt-8 mb-8 text-5xl">Winterf4ce</h1>
+  <body class="body">
+    <header class="header-body">
+      <h1 class="website-name">Winterf4ce</h1>
     </header>
 
-    <img src="/static/background.jpg" class="fixed -mt-32 w-full -z-10" />
+    <img src="/static/images/background.jpg" class="wallpaper" />
 
-    <div class="flex flex-wrap justify-center w-full">
-      <div class="flex flex-col items-center mt-16">
-        <h3 class="text-3xl">Frontend</h3>
+    <div class="main">
+      {{range .}}
+      <div class="group">
+        <h3 class="title">{{.Title}}</h3>
 
-        <ul class="mt-4">
-          {{range $name, $url := .Frontend}}
-          <a
-            href="{{$url}}"
-            class="flex justify-center p-4 m-4 w-96 bg-gray-900 rounded-xl shadow-xl transition-all duration-75 ease-linear hover:bg-red-800 hover:cursor-pointer"
-          >
-            {{$name}}</a
-          >
+        <ul class="group-body">
+          {{range .Links}}
+          <a href="{{.URL}}" class="button">{{.Name}}</a>
           {{end}}
         </ul>
       </div>
-
-      <div class="flex flex-col items-center mt-16">
-        <h3 class="text-3xl">Documentation</h3>
-
-        <ul class="mt-4">
-          {{range $name, $url := .Documentation}}
-          <a
-            href="{{$url}}"
-            class="flex justify-center p-4 m-4 w-96 bg-gray-900 rounded-xl shadow-xl transition-all duration-75 ease-linear hover:bg-blue-800 hover:cursor-pointer"
-          >
-            {{$name}}</a
-          >
-          {{end}}
-        </ul>
-      </div>
-
-      <div class="flex flex-col items-center mt-16">
-        <h3 class="text-3xl">Backend</h3>
-
-        <ul class="mt-4">
-          {{range $name, $url := .Backend}}
-          <a
-            href="{{$url}}"
-            class="flex justify-center p-4 m-4 w-96 bg-gray-900 rounded-xl shadow-xl transition-all duration-75 ease-linear hover:bg-red-800 hover:cursor-pointer"
-          >
-            {{$name}}</a
-          >
-          {{end}}
-        </ul>
-      </div>
-
-      <div class="flex flex-col items-center mt-16">
-        <h3 class="text-3xl">Job</h3>
-
-        <ul class="mt-4">
-          {{range $name, $url := .Job}}
-          <a
-            href="{{$url}}"
-            class="flex justify-center p-4 m-4 w-96 bg-gray-900 rounded-xl shadow-xl transition-all duration-75 ease-linear hover:bg-red-800 hover:cursor-pointer"
-          >
-            {{$name}}</a
-          >
-          {{end}}
-        </ul>
-      </div>
-
-      <div class="flex flex-col items-center mt-16">
-        <h3 class="text-3xl">Useful</h3>
-
-        <ul class="mt-4">
-          {{range $name, $url := .Useful}}
-          <a
-            href="{{$url}}"
-            class="flex justify-center p-4 m-4 w-96 bg-gray-900 rounded-xl shadow-xl transition-all duration-75 ease-linear hover:bg-red-800 hover:cursor-pointer"
-          >
-            {{$name}}</a
-          >
-          {{end}}
-        </ul>
-      </div>
-
-      <div class="flex flex-col items-center mt-16">
-        <h3 class="text-3xl">Social</h3>
-
-        <ul class="mt-4">
-          {{range $name, $url := .Social}}
-          <a
-            href="{{$url}}"
-            class="flex justify-center p-4 m-4 w-96 bg-gray-900 rounded-xl shadow-xl transition-all duration-75 ease-linear hover:bg-red-800 hover:cursor-pointer"
-          >
-            {{$name}}</a
-          >
-          {{end}}
-        </ul>
-      </div>
+      {{end}}
     </div>
   </body>
 </html>
