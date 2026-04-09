@@ -1,0 +1,98 @@
+Wappalyzer
+https://www.wappalyzer.com/
+
+SoloLearn
+https://www.sololearn.com/profile/5743799
+
+Free Code Camp
+https://www.freecodecamp.org/learn
+
+The Odin Project
+https://www.theodinproject.com/paths
+
+W3Schools
+https://www.w3schools.com/howto/howto_css_modals.asp
+
+Mozilla Developer Network
+https://developer.mozilla.org/en-US/
+
+Fireship
+https://fireship.io/
+
+LeetCode
+https://leetcode.com/
+
+Learn X in Y minutes
+https://learnxinyminutes.com/docs/javascript/
+
+30 Seconds of Code
+https://www.30secondsofcode.org
+
+W3C Web Accessibility
+https://www.w3.org/WAI/fundamentals/accessibility-intro/
+
+HTML5 UP!
+https://html5up.net/
+
+Semantic HTML
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+TypeScript Cheat Sheet
+https://www.typescriptlang.org/cheatsheets
+
+JavaScript Cheat Sheet
+https://overapi.com/javascript
+
+Vue 3 Docs
+https://vuejs.org/guide/introduction.html
+
+Vue Router
+https://router.vuejs.org/guide/
+
+Vue Pinia
+https://pinia.vuejs.org/
+
+Vite
+https://vitejs.dev/guide/
+
+NPM
+https://www.npmjs.com/
+
+CSS Tricks
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+
+Sass
+https://sass-lang.com/documentation
+
+TailwindCSS
+https://tailwindcss.com/docs/installation
+
+Ionic UI
+https://ionicframework.com/vue
+
+Daisy UI
+https://daisyui.com/components/
+
+Vuetify
+https://vuetifyjs.com/en/getting-started/installation/
+
+Oruga UI
+https://oruga.io/documentation/
+
+Materialize
+https://materializecss.com/
+
+Bootstrap
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+Bulma
+https://bulma.io/documentation/
+
+Human Interface Design
+https://developer.apple.com/design/human-interface-guidelines/
+
+Arch Linux Wiki
+https://wiki.archlinux.org/
+
+Fedora
+https://getfedora.org/

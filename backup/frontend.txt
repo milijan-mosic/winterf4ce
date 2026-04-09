@@ -25,8 +25,17 @@ https://www.canva.com/colors/color-wheel/
 CSS Gradient
 https://cssgradient.io/
 
+CSS Shadow
+https://cssgenerator.org/box-shadow-css-generator.html
+
+CSS Animation
+https://animate.style/
+
 Google Fonts
 https://fonts.google.com/
+
+Dribble
+https://dribbble.com/search
 
 Unsplash
 https://unsplash.com/
@@ -40,5 +49,32 @@ https://tinypng.com/
 JPG to Webp
 https://convertio.co/jpg-webp/
 
-React
-#
+Axios
+https://axios-http.com/docs/intro
+
+JSON Web Token
+https://jwt.io/introduction
+
+OAuth
+https://www.oauth.com/
+
+ImmutableJS
+https://immutable-js.com/
+
+MomentJS
+https://momentjs.com/
+
+MarkedJS
+https://marked.js.org/
+
+HammerJS
+https://hammerjs.github.io/
+
+PassportJS
+https://www.passportjs.org/
+
+FlickityJS
+https://flickity.metafizzy.co/
+
+JAM Stack
+https://jamstack.org/

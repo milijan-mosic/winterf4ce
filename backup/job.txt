@@ -1,0 +1,56 @@
+Github
+https://github.com/windwalk-bushido?tab=repositories
+
+Netlify
+https://www.netlify.com/
+
+Render
+https://render.com/
+
+Heroku
+https://dashboard.heroku.com/apps
+
+Surge
+https://surge.sh/
+
+Python Anywhere
+https://www.pythonanywhere.com/
+
+LinkedIn
+https://www.linkedin.com/in/milijan-mosi%C4%87-936a87235/
+
+Levi9 Jobs
+https://jobs.rs.levi9.com/connect/dashboard
+
+HelloWorld.rs
+https://www.helloworld.rs/
+
+Poslovi Infostud
+https://poslovi.infostud.com/
+
+StartIT
+https://startit.rs/
+
+Joberty
+https://www.joberty.rs/
+
+Ngrok
+https://ngrok.com/
+
+Localhost - Vite + Vue
+http://localhost:3000
+
+Localhost - Old Vue
+http://localhost:8080
+
+Localhost - Flask
+http://localhost:5000
+
+Localhost - Strapi
+http://localhost:1337
+
+Localhost - Wordpress
+http://localhost:8000
+
+Localhost - Cockpit
+http://localhost:9090

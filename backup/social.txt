@@ -10,6 +10,12 @@ https://www.youtube.com/feed/subscriptions
 Reddit
 https://www.reddit.com/
 
+Mastodon
+https://fosstodon.org/web/timelines/home
+
+Twitch
+https://www.twitch.tv/
+
 Wired
 https://www.wired.com/
 
@@ -37,20 +43,35 @@ https://lichess.org/
 Steam
 https://store.steampowered.com/
 
+System Requirements Lab
+https://www.systemrequirementslab.com
+
 TechPowerUp
 https://www.techpowerup.com/
 
+Ark Intel
+https://ark.intel.com/content/www/us/en/ark.html
+
 IMDB
 https://www.imdb.com/
+
+Vucibatina
+https://vucibatina.com/
+
+My Academy
+https://vpsle.edu.rs/
+
+Academy's eClasses
+https://lms.vpsle.edu.rs/
+
+Academy's Finances
+http://portal.vpsle.fakultis.com/authentication/login
 
 Google Translate
 https://translate.google.rs/?hl=en
 
 Google Meet
 https://meet.google.com/
-
-Google Docs
-https://docs.google.com/
 
 Google Maps
 https://www.google.rs/maps/
