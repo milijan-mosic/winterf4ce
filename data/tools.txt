@@ -1,3 +1,9 @@
+Web Tools
+https://webutils.io/
+
+Dev Sheets
+https://devsheets.io/
+
 Sort Strings
 https://onlinestringtools.com/sort-strings
 
